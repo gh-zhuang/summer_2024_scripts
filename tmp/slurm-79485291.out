@@ -1,0 +1,3 @@
+/var/spool/slurmd/job79485291/slurm_script: line 9: data: command not found
+
+slurmstepd: error: *** JOB 79485291 ON testivd04 CANCELLED AT 2024-06-11T15:58:47 ***

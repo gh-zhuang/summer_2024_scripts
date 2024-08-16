@@ -1,0 +1,5 @@
+/var/spool/slurmd/job79552982/slurm_script: line 8: import: command not found
+/var/spool/slurmd/job79552982/slurm_script: line 9: import: command not found
+/var/spool/slurmd/job79552982/slurm_script: line 10: import: command not found
+/var/spool/slurmd/job79552982/slurm_script: line 12: syntax error near unexpected token `('
+/var/spool/slurmd/job79552982/slurm_script: line 12: `with open('/screening/notebooks/zhuang/summer_2024/data/region_ids.pkl', 'rb') as f:'
